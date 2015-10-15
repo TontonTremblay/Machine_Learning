@@ -172,11 +172,15 @@ def SearchSolution(a,cards):
                 # print a[0]
                 # print a[1]
                 SearchSolution(at,cards)
-    if p is -1 and checkBoard(a):
-        print "sol"
-        printSolution(a)
-        for i in a:
-            printFace(i)
+            else:
+                global sol_num 
+                sol_num +=1
+                
+    # if p is -1 and checkBoard(a):
+        # print "sol"
+        # printSolution(a)
+        # for i in a:
+            # printFace(i)
         # quit()
 
 # Direction position array: W,N,E,S
@@ -194,7 +198,7 @@ c = [[1,[(1,0),(3,1),(2,1),(0,0)]],
      [8,[(3,0),(1,1),(2,1),(1,0)]],
      [9,[(1,1),(1,0),(3,0),(2,1)]]]
 
-
+sol_num = 0 
 a = [None for i in range(9)]
 # a[0] = c[0]
 # printFace(a[0])
@@ -204,3 +208,4 @@ a = [None for i in range(9)]
 # print checkCouple(a[4],a[3],'w')
 # print checkCouple(a[3],a[4],'e')
 SearchSolution(a,c)
+print sol_num
