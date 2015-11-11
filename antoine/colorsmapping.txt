@@ -1,0 +1,7 @@
+black : variable
+red : C/D box + 2'-O- methylation
+blue : C/D box sans 2'-O- methylation
+cyan : H/ACA + pseudouridylation
+olive : H/ACA sans pseudouridylation
+gold : spliceosomal
+magenta : unknown

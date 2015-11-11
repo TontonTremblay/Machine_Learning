@@ -1,0 +1,97 @@
+00 0 SACE0A01085r Non-protein-coding RNA, substrate of RNase P, possibly involved in rRNA processing, specifically maturation of 20S precursor into the mature 18S rRNA
+01 1 SACE0A01584r snR18 SNR18, snR18, C/D box small nucleolar RNA (snoRNA); commonly referred to as U18; guides 2'-O- methylation of large subunit (LSU) rRNA at positions A649 and C650
+02 1 SACE0B00924r snR56 SNR56, snR56, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at position G1428
+03 3 SACE0B03300r snR161 SNR161, snR161, H/ACA small nucleolar RNA (snoRNA); guides pseudouridylation of small subunit (SSU) rRNA at positions U632 and U766
+04 0 SACE0B03307r TLC1 RNA contains a template sequence that Est2p uses to add irregular repeats of TG(1-3) residues onto a DNA end; RNA template component of telomerase
+05 0 SACE0B07678r LSR1 LSR1, U2 snRNA, component of the spliceosome; pairs with the branchpoint sequence; functionally equivalent to mammalian U2 snRNA
+06 3 SACE0C01364r snR43 SNR43, snR43, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U966 and of 5.8S rRNA at position 73
+07 3 SACE0C01826r snR33 SNR33, snR33, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U1042
+08 1 SACE0C02310r snR65 SNR65, snR65, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position U2347
+09 3 SACE0C02354r snR189 SNR189, snR189, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2735 and small subunit (SSU) rRNA at position U466
+10 1 SACE0D03762r snR63 SNR63, snR63, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A2256
+11 1 SACE0D06248r snR47 SNR47, snR47, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A2220 and small subunit (SSU) rRNA at position A619
+12 1 SACE0D15466r snR13 SNR13, snR13, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at positions A2280 and A2281
+13 3 SACE0D16676r snR84 SNR84, snR84, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2266
+14 3 SACE0E00572r snR80 SNR80, snR80, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U776 and small subunit (SSU) rRNA at position U759
+15 1 SACE0E00704r snR67 SNR67, snR67, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at positions G2619 and U2724
+16 1 SACE0E00726r snR53 SNR53, snR53, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at position A796
+17 0 SACE0E01413r RNA component of nuclear RNase P, which cleaves tRNA precursors to generate mature 5' ends; may be responsible for recognition of substrate tRNAs
+18 5 SACE0E02068r snR14 SNR14, snR14, U4 spliceosomal RNA; interacts with U6; snRNA U4
+19 0 SACE0E04011r Non-protein-coding RNA that regulates the transcription of SER3; expression of SRG1 RNA represses expression of its neighboring gene SER3 via a transcription-interference mechanism
+20 2 SACE0E05126r snR4 SNR4, snR4, C/D box small nucleolar RNA (snoRNA) but not shown to be active and no target site is predicted within the ribosomal RNAs
+21 1 SACE0E05170r snR52 SNR52, snR52, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position U2921 and small subunit (SSU) rRNA at position A420
+22 0 SACE0E05330r RNA subunit of the Signal Recognition Particle
+23 6 SACE0F00786r RNA of Unknown Function
+24 6 SACE0F01490r RNA of Unknown Function
+25 6 SACE0F02186r RNA of Unknown Function; precise location of 3' end uncertain; RUF22 may be longer than currently annotated
+26 6 SACE0F02458r RNA of Unknown Function; precise location of 3' end uncertain; RUF23 may be longer than currently annotated
+27 3 SACE0G03608r snR82 SNR82, snR82, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at positions U1110, U2349, and U2351
+28 3 SACE0G03894r snR10 SNR10, snR10, H/ACA box small nucleolar RNA (snoRNA); essential gene required for for preRNA processing, specifically for cleavage at sites A1 and A2; also guides pseudouridylation of large subunit (LSU) rRNA at position U2923
+29 1 SACE0G04180r snR39 SNR39, snR39, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A807
+30 1 SACE0G04202r snR39B SNR39B, snR39B, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position G805
+31 3 SACE0G06512r snR46 SNR46, snR46, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2865
+32 1 SACE0G07150r snR48 SNR48, snR48, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at positions G2791 and G2793
+33 5 SACE0G10912r snR7-L SNR7-L, snR7-L, U5 spliceosomal RNA, long form; associated with spliceosome
+34 5 SACE0G10934r snR7-S SNR7-S, snR7-S, U5 spliceosomal RNA, short form; derived from SNR7-L by 3' end processing; associated with spliceosome
+35 6 SACE0H02579r RNA of Unknown Function
+36 6 SACE0H02623r RNA of Unknown Function
+37 3 SACE0H04576r snR32 SNR32, snR32, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2191
+38 1 SACE0H04950r snR71 SNR71, snR71, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A2946
+39 1 SACE0I00924r snR68 SNR68, snR68, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A2640
+40 0 SACE0I04381r Long intergenic ncRNA, has a key role in regulating transcription of the nearby protein-coding ORF MUC1; initiated far upstream from MUC1 and transcribed across much of the large promoter of MUC1, repressing MUC1 transcription in cis
+41 0 SACE0I04392r One of two long intergenic ncRNAs that play key roles in regulating transcription of the nearby protein- coding ORF MUC1; PWR1 promotes MUC1 transcription by interfering with ncRNA ICR1, which is transcribed across the MUC1 promoter
+42 1 SACE0J01562r snR128 SNR128, snR128, C/D box small nucleolar RNA (snoRNA), referred to as U14; essential gene required for cleavage of 35S primary rRNA transcript to release the precursor to the 18S rRNA; guides 2'-O-methylation of small subunit (SSU) rRNA at position C414
+43 1 SACE0J01584r snR190 SNR190, snR190, C/D box small nucleolar RNA (snoRNA) predicted to guide 2'-O-methylation of large subunit (LSU) rRNA at position G2395 but not shown to be active
+44 3 SACE0J02596r snR37 SNR37, snR37, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2944
+45 1 SACE0J03872r snR60 SNR60, snR60, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at positions A817 and G908
+46 3 SACE0J07722r snR3 SNR3, snR3, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at positions U2129, U2133, and U2264
+47 1 SACE0K00396r snR64 SNR64, snR64, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position C2337
+48 1 SACE0K03168r snR38 SNR38, snR38, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position G2815
+49 1 SACE0K04158r snR69 SNR69, snR69, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position C2948
+50 1 SACE0K04928r snR87 SNR87, snR87, C/D box small nucleolar RNA (snoRNA); guides 2'-O-methylation of small subunit (SSU) rRNA at position A436
+51 3 SACE0K06402r snR42 SNR42, snR42, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2975
+52 4 SACE0L02090r snR30 SNR30, snR30, H/ACA box small nucleolar RNA (snoRNA); essential gene required for cleavage of 35S primary rRNA transcript to release the precursor to the 18S rRNA
+53 1 SACE0L03784r snR79 SNR79, snR79, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at position C1007
+54 5 SACE0L03850r snR6 SNR6, snR6, U6 spliceosomal RNA, interacts with U4; homology to snRNA U6, interacts with snr14
+55 1 SACE0L15003r snR61 SNR61, snR61, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A1133
+56 1 SACE0L15025r snR55 SNR55, snR55, C/D box small nucleolar RNA (snoRNA), predicted to guide 2'-O-methylation of small subunit (SSU) rRNA at position U1269
+57 1 SACE0L15047r snR57 SNR57, snR57, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at position G1572
+58 3 SACE0L15795r snR44 SNR44, snR44, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U1056 and small subunit (SSU) rRNA at position U106
+59 3 SACE0L16257r snR34 SNR34, snR34, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at positions U2826 and U2880
+60 3 SACE0M00770r snR85 SNR85, snR85, H/ACA box small nucleolar RNA (snoRNA); predicted to guide pseudouridylation of small subunit (SSU) rRNA at position U1181
+61 1 SACE0M01848r snR54 SNR54, snR54, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at position A974
+62 1 SACE0M03410r snR78 SNR78, snR78, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position U2421
+63 1 SACE0M03432r snR77 SNR77, snR77, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at position U578
+64 1 SACE0M03454r snR76 SNR76, snR76, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position C2197
+65 1 SACE0M03476r snR75 SNR75, snR75, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position G2288
+66 1 SACE0M03498r snR74 SNR74, snR74, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at position A28
+67 1 SACE0M03520r snR73 SNR73, snR73, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position C2959
+68 1 SACE0M03542r snR72 SNR72, snR72, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A876
+69 1 SACE0M05896r snR24 SNR24, snR24, C/D box small nucleolar RNA (snoRNA); commonly referred to as U24; guides 2'-O- methylation of large subunit (LSU) rRNA at positions C1437, C1449, and C1450
+70 3 SACE0M07458r snR83 SNR83, snR83, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of small subunit (SSU) rRNA at positions U1290 and U1415
+71 3 SACE0M07744r snR11 SNR11, snR11, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2416
+72 6 SACE0M07927r RNA polymerase III transcribed RNA of unknown function, conserved in other yeast species
+73 3 SACE0M08998r snR86 SNR86, snR86, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2314
+74 1 SACE0N01100r snR40 SNR40, snR40, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position U898 and small subunit (SSU) rRNA at position G1271
+75 5 SACE0N02552r snR19 SNR19, snR19, U1 spliceosomal RNA; snRNA U1 homolog
+76 0 SACE0N06776r NME1 NME1, RNA component of RNase MRP, which cleaves pre-rRNA and has a role in cell cycle-regulated degradation of daughter cell-specific mRNAs; human ortholog is implicated in cartilage-hair hypoplasia (CHH)
+77 1 SACE0N06798r snR66 SNR66, snR66, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position U2417
+78 3 SACE0N08470r snR49 SNR49, snR49, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U990 and small subunit (SSU) rRNA at positions U120, U211, and U302
+79 3 SACE0N08558r snR191 SNR191, snR191, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at positions U2258 and U2260; encoded within the intron of NOG2/YNR053C
+80 1 SACE0O01584r snR58 SNR58, snR58, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position C663
+81 3 SACE0O02684r snR81 SNR81, snR81, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U1052
+82 1 SACE0O03014r snR50 SNR50, snR50, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position G867
+83 3 SACE0O04862r snR9 SNR9, snR9, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at position U2340
+84 1 SACE0O04906r snR62 SNR62, snR62, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position U1888
+85 3 SACE0O07920r snR36 SNR36, snR36, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of small subunit (SSU) rRNA at position U1187
+86 3 SACE0O08734r snR35 SNR35, snR35, H/ACA box small nucleolar RNA (snoRNA); predicted to guide pseudouridylation of small subunit (SSU) rRNA at position 1191
+87 0 SACE0O08998r snR17a SNR17A, snR17a, small nucleolar RNA (snoRNA) U3, part of Small ribosomal SubUnit (SSU) processosome; SNR17B also encodes snoRNA U3
+88 3 SACE0O09746r snR8 SNR8, snR8, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at positions U960 and U986
+89 3 SACE0O09878r snR31 SNR31, snR31, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of small subunit (SSU) rRNA at position U999
+90 3 SACE0O09900r snR5 SNR5, snR5, H/ACA box small nucleolar RNA (snoRNA); guides pseudouridylation of large subunit (LSU) rRNA at positions U1004 and U1124
+91 1 SACE0P01914r snR59 SNR59, snR59, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position A807
+92 0 SACE0P03146r snR17b SNR17B, snR17b, small nucleolar RNA (snoRNA) U3; part of small (ribosomal) subunit (SSU) processosome; SNR17A also encodes snoRNA U3
+93 1 SACE0P08052r snR51 SNR51, snR51, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of large subunit (LSU) rRNA at position U2729 and small subunit (SSU) rRNA at position A100
+94 1 SACE0P08074r snR70 SNR70, snR70, C/D box small nucleolar RNA (snoRNA), predicted to guide 2'-O-methylation of small subunit (SSU) rRNA at position C1639
+95 1 SACE0P08096r snR41 SNR41, snR41, C/D box small nucleolar RNA (snoRNA), guides 2'-O-methylation of small subunit (SSU) rRNA at positions A541 and G1126
+96 2 SACE0P09262r snR45 SNR45, snR45, C/D box small nucleolar RNA (snoRNA) but not shown to be active and no target site is predicted within the ribosomal RNAs
